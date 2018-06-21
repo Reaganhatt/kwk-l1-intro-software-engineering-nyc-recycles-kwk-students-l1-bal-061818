@@ -51,6 +51,6 @@ end
 
 def key_and_data(first_recycle_bin)
   first_recycle_bin.each do |x,y|
-    puts "The #{x} is #{y}."
+    puts "The #{x} is #{y}"
   end
 end
