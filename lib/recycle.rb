@@ -54,3 +54,5 @@ def key_and_data(first_recycle_bin)
     puts "The #{x} is #{y}."
   end
 end
+
+config.raise_errors_for_deprecations!
